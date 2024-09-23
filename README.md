@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning new things 
 - 🌱 I’m currently learning Advanced level Python and Ethical Hacking
 - 💞️ I’m looking to collaborate on Mini Projects about Python
-- 📫 How to reach me, It's simple, just leave a mail on tusharpokhriyal069@gmail.com
+- 📫 How to reach me, It's simple, just leave a mail on tusharpokhraiyal@gmail.com
 - 
 
 <!---
